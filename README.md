@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Learning MERN stack</h3>
 
-  <img src="https://i.ytimg.com/vi/tYEcGhjrBhQ/maxresdefault.jpg" width="750" alt="accessibility text">
+  <img src="https://i.ytimg.com/vi/tYEcGhjrBhQ/maxresdefault.jpg" width="700" alt="accessibility text">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkp5" alt="utkp5" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
