@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Learning MERN stack</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-  <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" width="800" alt="accessibility text">
-  <img src="https://i.ytimg.com/vi/tYEcGhjrBhQ/maxresdefault.jpg" width="800" alt="accessibility text">  
+
+ <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" width="800" alt="accessibility text">
+ <img src="https://i.ytimg.com/vi/tYEcGhjrBhQ/maxresdefault.jpg" width="800" alt="accessibility text">  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkp5" alt="utkp5" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Utkp5&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh" /> </p>
