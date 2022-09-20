@@ -5,7 +5,7 @@
  <h1><img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" width="400" alt="accessibility text">
  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="accessibility text"></h1>
  <h1><img src="https://i.ytimg.com/vi/tYEcGhjrBhQ/maxresdefault.jpg" width="400" alt="accessibility text">  
- <img src=" https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/hjhpnhysm7mj8eh9rs0w/lofi-loop-animation-nft-lofi-illustration-nft-animated-gif.png" width="400" alt="accessibility text"></h1>
+ <img src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/hjhpnhysm7mj8eh9rs0w/lofi-loop-animation-nft-lofi-illustration-nft-animated-gif.png" width="400" alt="accessibility text"></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkp5" alt="utkp5" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Utkp5&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh" /> </p>
