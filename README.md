@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-
  <h1><img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" width="400" alt="accessibility text">
  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="accessibility text"></h1>
  <h1><img src="https://i.ytimg.com/vi/tYEcGhjrBhQ/maxresdefault.jpg" width="400" alt="accessibility text">  
