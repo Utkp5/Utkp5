@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Utkp5&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh" /> </p>
 
-- 🌱 I’m currently learning **JAVA & SQL**
+- 🌱 I’m currently learning **JAVA, SQL and Selenium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
